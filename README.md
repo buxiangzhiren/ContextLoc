@@ -108,7 +108,9 @@ sh test.sh TRAINING_CHECKPOINT
 Here, `TRAINING_CHECKPOINT` denotes for the trained model.
 This script will report the detection performance in terms of [mean average precision][map] at different IoU thresholds.
 
-The trained models and evaluation results are put in the "results" folder.
+Please first change the "result" file of RGB to the "RGB_result" file and change the "result" file of Flow to the ''Flow_result" file.
+
+Then put them in the "results" folder.
 
 You can obtain the two-stream results on THUMOS14 by running
 ```bash
