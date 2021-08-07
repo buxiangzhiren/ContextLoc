@@ -121,7 +121,7 @@ sh test_two_stream.sh
 ## Citation
 
 
-Please cite the following paper if you feel PGCN useful to your research
+Please cite the following paper if you feel ContextLoc useful to your research
 
 ```
 @inproceedings{Zhu2021EnrichingLA,
