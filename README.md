@@ -122,7 +122,7 @@ sh test_two_stream.sh
 Please cite the following paper if you feel PGCN useful to your research
 
 ```
-@inproceedings{PGCN2019ICCV,
+@inproceedings{Zhu2021EnrichingLA,
   author={Zixin Zhu and Wei Tang and Le Wang and Nanning Zheng and G. Hua},
   title={Enriching Local and Global Contexts for Temporal Action Localization},
   booktitle   = {ICCV},
