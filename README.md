@@ -91,6 +91,8 @@ Then, you can use the following commands to train ContextLoc
 python ContextLoc_train.py thumos14 --snapshot_pre $PATH_TO_SAVE_MODEL
 ```
 
+The training time of ContextLoc is long, please be patient to its completion.
+
 After training, there will be a checkpoint file whose name contains the information about dataset and the number of epoch.
 This checkpoint file contains the trained model weights and can be used for testing.
 
